@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "814931287975",
+    "firebase_url": "https://shoppingsite-1d335.firebaseio.com",
+    "project_id": "shoppingsite-1d335",
+    "storage_bucket": "shoppingsite-1d335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814931287975:android:074015dc24229210",
+        "android_client_info": {
+          "package_name": "com.a1694676example.sakshi.shoppingsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814931287975-8h143j99lj9kquann0kp14q2r2c3i401.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1694676example.sakshi.shoppingsite",
+            "certificate_hash": "b4f206b10e542f7d00e77abd3d89ed95413a0bd3"
+          }
+        },
+        {
+          "client_id": "814931287975-3bjc6k4a1l3dvr40imib158tajudrpn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYYQxbaT2ny3pRmFlXsgUcn9kSZuemtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814931287975-3bjc6k4a1l3dvr40imib158tajudrpn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

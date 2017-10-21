@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShoppingSite</string>
+    <string-array name="size" >
+        <item >XXL</item>
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string name="size_prompt">Choose a size</string>
+    <string-array name="esize">
+        <item> small </item>
+        <item> medium </item>
+        <item> large</item>
+    </string-array>
+</resources>
